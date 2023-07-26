@@ -1,0 +1,17 @@
+<script>
+export default {
+  setup() {
+    
+  },
+}
+</script>
+
+<template>
+  <div>
+    page1
+  </div>
+</template>
+
+<style lang="less" scoped>
+
+</style>
